@@ -1,0 +1,15 @@
+[submodule "antlr4"]
+	path = antlr4
+	url = git@github.com:abrobston/antlr4.git
+[submodule "antlr4-csharp"]
+	path = antlr4-csharp
+	url = git@github.com:abrobston/antlr4-csharp.git
+[submodule "antlr4-python2"]
+	path = antlr4-python2
+	url = git@github.com:abrobston/antlr4-python2.git
+[submodule "antlr4-python3"]
+	path = antlr4-python3
+	url = git@github.com:abrobston/antlr4-python3.git
+[submodule "antlr4-javascript"]
+	path = antlr4-javascript
+	url = git@github.com:abrobston/antlr4-javascript.git
