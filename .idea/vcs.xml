@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/antlr4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/antlr4-csharp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/antlr4-javascript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/antlr4-python2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/antlr4-python3" vcs="Git" />
   </component>
 </project>
