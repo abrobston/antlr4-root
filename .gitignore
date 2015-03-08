@@ -13,4 +13,4 @@ hs_err_pid*
 
 # IntelliJ IDEA workspace
 workspace.xml
-
+out/
